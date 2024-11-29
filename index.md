@@ -1,8 +1,3 @@
----
-layout: cv
-title: Paulius Baltrusis CV
----
-
 <span style="color:#1b4f72">Paulius Baltrusis</span>
 ======
 

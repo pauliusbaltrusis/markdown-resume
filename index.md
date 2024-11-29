@@ -1,10 +1,10 @@
-Paulius Baltrusis
+<span style="color:#1b4f72">Paulius Baltrusis</span>
 ======
 
 #### Application Specialist in Genomics with a Ph.D. in Biomedical Science
 ###### [ [LinkedIn/pauliusbaltrusis](https://www.linkedin.com/in/paulius-baltrusis/) ] . [ [pauliusbaltrusis.github.io](https://pauliusbaltrusis.github.io/) ] . [ <pauliusbaltrusis@gmail.com> ]
 
-Experience
+<span style="color:#21618c">Experience</span>
 ---------
 **Field Application Specialist in Genomics, Bio-Rad Laboratories**<br/> (2024/01 - Present, Stockholm, Sweden)
 - Organized and conducted both internal and external trainings on Bio-Rad’s genomics portfolio
@@ -29,7 +29,7 @@ Experience
 - Developed molecular and genomics methods to study anthelmintic resistance in parasites
 - Established molecular tools and pipelines for parasite identification and differentiation
 
-Education
+<span style="color:#21618c">Education</span>
 ---------
 
 **Ph.D. in Biomedical Science**  
@@ -45,7 +45,7 @@ Vilnius University, Lithuania (2012 - 2016)
 
 
 
-Skills
+<span style="color:#21618c">Skills</span>
 ------
 **Wet Lab Skills**
 - Expertise in nucleic acid workflows
@@ -71,14 +71,14 @@ Skills
 - Precision and attention to detail
 
 
-Awards
+<span style="color:#21618c">Awards</span>
 ------
 
 - **2020**: Awarded a 15,000 SEK grant by Stiftelsen Knut och Alice Wallenbergs forskarstipediefond
 - **2019**: Received a 20,000 SEK grant from Stiftelsen Carl-Fredrik von Horns fond
 - **2019**: 'Annual Award for Best Scientific Publication' at the Swedish University of Agricultural Sciences
 
-Publication List
+<span style="color:#21618c">Publication List</span>
 --------
 The full list of publications is available on my
 [Google Scholar](https://scholar.google.com/citations?user=72-4TsEAAAAJ&hl=sv) and

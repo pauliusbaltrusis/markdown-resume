@@ -1,49 +1,85 @@
-Sonya Sawtelle
+Paulius Baltrusis
 ======
 
-#### Data enthusiast with a strong background in math, science and programming. 
-###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
-
-
-Education
----------
-**Ph.D. program in Applied Physics, Yale University** (2012-present)
-
-- Research on transport in metal nanostructures. 
-- Coursework in physics, engineering, and statistics.
-
-**B.S. in Physics, Indiana University** (2008-2011)
-
-- Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
-
-**MOOCs** (ongoing)
-
-- Machine Learning (Stanford, Andrew Ng)
+#### Application Specialist in Genomics with a Ph.D. in Biomedical Science
+###### [ [LinkedIn/pauliusbaltrusis](https://www.linkedin.com/in/paulius-baltrusis/) ] . [ [pauliusbaltrusis.github.io](https://pauliusbaltrusis.github.io/) ] . [ <pauliusbaltrusis@gmail.com> ]
 
 Experience
 ---------
-**Independent Researcher, Yale University** (2012-present, New Haven CT)
+**Field Application Specialist in Genomics, Bio-Rad Laboratories**<br/> (2024/01 - Present, Stockholm, Sweden)
+- Organized and conducted both internal and external trainings on Bio-Rad’s genomics portfolio
+- Installed and demonstrated lab equipment at customer sites
+- Assisted customers with application inquiries and troubleshooting
+- Supported Account Managers in pre- and post-sales processes
 
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
+**Research Technician in R&D, Karolinska Institute, SciLifeLab**<br/> (2022/12 - 2023/12, Stockholm, Sweden)
+- Developed sequencing-based diagnostic tools for human diseases and analyzed high-throughput data
+- Managed lab operations: ordering supplies, handling deliveries, and communicating with suppliers
 
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
+**Ph.D. Candidate at Swedish University of Agricultural Sciences** <br/>(2018 - 2022, Uppsala, Sweden)
 
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+**Professional Achievements**
+- Designed and implemented new research projects across various budget levels
+- Managed multiple projects concurrently, fostering collaboration with international colleagues
+- Mentored students and visiting researchers in lab techniques and project development
+
+**Scientific Achievements**
+- Authored 14 peer-reviewed publications
+- Peer-reviewed for scientific journals
+- Developed molecular and genomics methods to study anthelmintic resistance in parasites
+- Established molecular tools and pipelines for parasite identification and differentiation
+
+Education
+---------
+
+**Ph.D. in Biomedical Science**  
+Swedish University of Agricultural Sciences (2018 - 2022)
+
+**M.Sc. in Infection Biology**  
+Uppsala University, Sweden (2016 - 2018)  
+*Passed all subjects with distinction*
+
+**B.Sc. in Molecular Biology**  
+Vilnius University, Lithuania (2012 - 2016)  
+*Graduated with Honors (Cum Laude)*
+
+
 
 Skills
 ------
-**Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
+**Wet Lab Skills**
+- Expertise in nucleic acid workflows
+- Advanced PCR-based methods (ddPCR, qPCR)
+- NGS library preparation
+- Protein purification using HPLC
+- General molecular and microbiology techniques
 
-**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
+**Computer Skills**
+- NGS data analysis and visualization
+- Statistical analyses and data handling in R
+- Bash scripting for automation
+- Proficient in Microsoft Office, Quartzy, ELN, CPQ, Salesforce
+
+**Languages**
+- **Lithuanian** Native
+- **English** Fluent
+- **Swedish** Advanced
+
+**Core Competencies**
+- Science communication and peer review
+- Project and time management
+- Precision and attention to detail
+
 
 Awards
 ------
-- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
-- **IU Founders Scholar**, Indiana University (2012)
-- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
 
-Projects
+- **2020**: Awarded a 15,000 SEK grant by Stiftelsen Knut och Alice Wallenbergs forskarstipediefond
+- **2019**: Received a 20,000 SEK grant from Stiftelsen Carl-Fredrik von Horns fond
+- **2019**: 'Annual Award for Best Scientific Publication' at the Swedish University of Agricultural Sciences
+
+Publication List
 --------
-**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
+The full list of publications is available on my
+[Google Scholar](https://scholar.google.com/citations?user=72-4TsEAAAAJ&hl=sv) and
+[ORCID](https://orcid.org/0000-0001-7393-8524)  

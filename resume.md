@@ -60,6 +60,10 @@ Skills
 - Bash scripting for automation
 - Proficient in Microsoft Office, Quartzy, ELN, CPQ, Salesforce
 
+**Teaching and Supervision Skills**
+- Organization and leading of large-scale theoretical seminars and practical, hands-on instrument trainings at customer sites
+- Co-supervision of a Bioinformatics Ph.D. student Nanxing Liu (the Swedish University of Agricultural Sciences) 
+
 **Languages**
 - **Lithuanian** Native
 - **English** Fluent

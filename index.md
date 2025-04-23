@@ -12,6 +12,11 @@
 - Assisted customers with application inquiries and troubleshooting
 - Supported Account Managers in pre- and post-sales processes
 
+**Adjunct Supervisor at Swedish University of Agricultural Sciences** <br/> (2024/08 - Present, Uppsala, Sweden)
+- Providing teaching and bioinformatics support
+- Co-managing research projects
+- Guiding experimental direction
+
 **Research Technician in R&D, Karolinska Institute, SciLifeLab**<br/> (2022/12 - 2023/12, Stockholm, Sweden)
 - Developed sequencing-based diagnostic tools for human diseases and analyzed high-throughput data
 - Managed lab operations: ordering supplies, handling deliveries, and communicating with suppliers
@@ -62,7 +67,7 @@ Vilnius University, Lithuania (2012 - 2016)
 
 **Teaching and Supervision Skills**
 - Organization and leading of large-scale theoretical seminars and practical, hands-on instrument trainings at customer sites
-- Co-supervision of a Bioinformatics Ph.D. student Nanxing Liu (the Swedish University of Agricultural Sciences, 2024-now) 
+- Co-supervision of a Bioinformatics Ph.D. student 
 
 **Languages**
 - **Lithuanian** Native

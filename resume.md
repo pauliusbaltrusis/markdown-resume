@@ -7,15 +7,16 @@ Paulius Baltrusis
 Experience
 ---------
 **Field Application Specialist in Genomics, Bio-Rad Laboratories**<br/> (2024/01 - Present, Stockholm, Sweden)
-- Organizing and conducting both internal and external trainings on Bio-Rad’s genomics portfolio
-- Installing and demonstrating lab equipment at customer sites
-- Assisting customers with application inquiries and troubleshooting
-- Supporting Account Managers in pre- and post-sales processes
+- Supporting continuous business growth and providing pre- and post-sales support, product demonstrations, seminars, training and customer service activities to achieve territory sales objectives
+- Building new and strengthening the existing relationships with the Bio-Rad customer base 
+- Developing technical training courses and demonstrations for regional customer training 
+- Providing advanced application-driven technical presentations at customer sites, high-level scientific meetings and internally
+- Supporting Account Managers, other Specialists and customers in pre- and post-sales processes
 
 **Adjunct Supervisor at Swedish University of Agricultural Sciences** <br/> (2024/08 - Present, Uppsala, Sweden)
 - Providing teaching and bioinformatics support
 - Co-managing research projects
-- Guiding experimental direction
+- Guiding the experimental direction
 
 **Research Technician in R&D, Karolinska Institute, SciLifeLab**<br/> (2022/12 - 2023/12, Stockholm, Sweden)
 - Developed sequencing-based diagnostic tools for human diseases and analyzed high-throughput data
@@ -54,7 +55,7 @@ Skills
 ------
 **Wet Lab Skills**
 - Expertise in nucleic acid workflows
-- Advanced PCR-based methods (ddPCR, qPCR)
+- Advanced PCR-based and isothermal amplification methods (ddPCR, qPCR, LAMP, RPA...)
 - NGS library preparation
 - Protein purification using HPLC
 - General molecular and microbiology techniques
@@ -65,10 +66,11 @@ Skills
 - Bash scripting for automation
 - Proficient in Microsoft Office, Quartzy, ELN, CPQ, Salesforce
 
-**Teaching and Supervision Skills**
+**Teaching and Supervision Experience**
 - Organization and leading of large-scale theoretical seminars and practical, hands-on instrument trainings at customer sites
 - Co-supervision of a Bioinformatics Ph.D. student
-
+- Presentation of educational material for Swedish high school students
+  
 **Languages**
 - **Lithuanian** Native
 - **English** Fluent
@@ -79,12 +81,11 @@ Skills
 - Project and time management
 - Precision and attention to detail
 
-
 Awards
 ------
 
-- **2020**: Awarded a 15,000 SEK grant by Stiftelsen Knut och Alice Wallenbergs forskarstipediefond
-- **2019**: Received a 20,000 SEK grant from Stiftelsen Carl-Fredrik von Horns fond
+- **2020**: Awarded a 15,000 SEK travel grant by Stiftelsen Knut och Alice Wallenbergs forskarstipediefond
+- **2019**: Received a 20,000 SEK travel grant from Stiftelsen Carl-Fredrik von Horns fond
 - **2019**: 'Annual Award for Best Scientific Publication' at the Swedish University of Agricultural Sciences
 
 Publication List

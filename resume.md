@@ -7,11 +7,9 @@ Paulius Baltrusis, PhD
 Experience
 ---------
 **Field Application Specialist in Genomics, Bio-Rad Laboratories**<br/> (2024/01 - Present, Stockholm, Sweden)
--Driving territory sales growth by supporting Account Managers and Specialists throughout the full sales cycle, from pre-sales demonstrations to post-sales follow-up and customer service
-
--Building and maintaining strong customer relationships through technical training courses, advanced application presentations, and engagement at scientific meetings and customer sites
-
--Developing and delivering regional training programs, including seminars, demos, and high-level scientific content for both customers and internal teams
+- Driving territory sales growth by supporting Account Managers and Specialists throughout the full sales cycle, from pre-sales demonstrations to post-sales follow-up and customer service
+- Building and maintaining strong customer relationships through technical training courses, advanced application presentations, and engagement at scientific meetings and customer sites
+- Developing and delivering regional training programs, including seminars, demos, and high-level scientific content for both customers and internal teams
 
 **Adjunct Supervisor at Swedish University of Agricultural Sciences** <br/> (2024/08 - Present, Uppsala, Sweden)
 - Providing teaching and bioinformatics support

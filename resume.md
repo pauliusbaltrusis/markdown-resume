@@ -74,7 +74,7 @@ Skills
 - **Swedish** Advanced
 
 **Core Competencies**
-- Science communication and peer review
+- Science communication and critical review
 - Project and time management
 - Precision and attention to detail
 

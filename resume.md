@@ -1,7 +1,7 @@
-Paulius Baltrusis
+Paulius Baltrusis, PhD
 ======
 
-#### Application Specialist in Genomics with a Ph.D. in Biomedical Science
+#### Application Specialist in Genomics, Researcher and Educator, Ph.D. in Biomedical Science
 ###### [ [LinkedIn/pauliusbaltrusis](https://www.linkedin.com/in/paulius-baltrusis/) ] . [ [pauliusbaltrusis.github.io](https://pauliusbaltrusis.github.io/) ] . [ <pauliusbaltrusis@gmail.com> ]
 
 Experience

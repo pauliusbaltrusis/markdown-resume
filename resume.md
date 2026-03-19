@@ -48,7 +48,6 @@ Vilnius University, Lithuania (2012 - 2016)
 *Graduated with Honors (Cum Laude)*
 
 
-
 Skills
 ------
 **Wet Lab Skills**
@@ -64,10 +63,10 @@ Skills
 - Bash scripting for automation
 - Proficient in Microsoft Office, Quartzy, ELN, CPQ, Salesforce
 
-**Teaching and Supervision Experience**
-- Organization and leading of large-scale theoretical seminars and practical, hands-on instrument trainings at customer sites
-- Co-supervision of a Bioinformatics Ph.D. student
-- Presentation of educational material for Swedish high school students
+**Teaching and Supervision Skills**
+- Delivery of large-scale theoretical and practical instrument training to customers across the territory
+- Co-supervision of a Bioinformatics Ph.D. student, contributing to research direction and skill development
+- Communicating complex scientific concepts to non-specialist audiences, including Swedish high school students
   
 **Languages**
 - **Lithuanian** Native

@@ -20,18 +20,10 @@ Experience
 - Developed sequencing-based diagnostic tools for human diseases and analyzed high-throughput data
 - Managed lab operations: ordering supplies, handling deliveries, and communicating with suppliers
 
-**Ph.D. Candidate at Swedish University of Agricultural Sciences** <br/>(2018 - 2022, Uppsala, Sweden)
-
-**Professional Achievements**
-- Designed and implemented new research projects across various budget levels
-- Managed multiple projects concurrently, fostering collaboration with international colleagues
-- Mentored students and visiting researchers in lab techniques and project development
-
-**Scientific Achievements**
-- Authored 14 peer-reviewed publications
-- Peer-reviewed for scientific journals
-- Developed molecular and genomics methods to study anthelmintic resistance in parasites
-- Established molecular tools and pipelines for parasite identification and differentiation
+**Ph.D. Researcher at Swedish University of Agricultural Sciences** <br/>(2018 - 2022, Uppsala, Sweden)
+- Designed and managed multiple research projects across budget levels, fostering international collaboration and mentoring students and visiting researchers 
+- Authored 14 peer-reviewed publications and served as a peer reviewer for scientific journals
+- Developed molecular and genomics methods, tools, and pipelines to study anthelmintic resistance, parasite identification, and differentiation 
 
 Education
 ---------
@@ -63,7 +55,7 @@ Skills
 - Bash scripting for automation
 - Proficient in Microsoft Office, Quartzy, ELN, CPQ, Salesforce
 
-**Teaching and Supervision Skills**
+**Supervision and Communcation Skills**
 - Delivery of large-scale theoretical and practical instrument training to customers across the territory
 - Co-supervision of a Bioinformatics Ph.D. student, contributing to research direction and skill development
 - Communicating complex scientific concepts to non-specialist audiences, including Swedish high school students
@@ -75,15 +67,8 @@ Skills
 
 **Core Competencies**
 - Science communication and critical review
-- Project and time management
+- Project and dead-line management
 - Precision and attention to detail
-
-Awards
-------
-
-- **2020**: Awarded a 15,000 SEK travel grant by Stiftelsen Knut och Alice Wallenbergs forskarstipediefond
-- **2019**: Received a 20,000 SEK travel grant from Stiftelsen Carl-Fredrik von Horns fond
-- **2019**: 'Annual Award for Best Scientific Publication' at the Swedish University of Agricultural Sciences
 
 Publication List
 --------

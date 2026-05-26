@@ -1,3 +1,3 @@
 # markdown-resume
-In [markdown](resume.md) and [html](resume.html)
+In [markdown](resume.md) and [html](index.html)
 
